@@ -1,0 +1,22 @@
+.classone {
+    background-color: pink;
+    font-size: 24px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#idone {
+    color: blue;
+    font-size: 32px;
+}
+
+.coolerclass {
+    background-color: pink;
+    font-size: 24px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#idtwo {
+    background-color: greenyellow;
+    font-size: 24px;
+}
